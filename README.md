@@ -1,6 +1,6 @@
 # Exp 8: Reproducing an Image Using Prompts for Image Generation  
-## Name:Sree Govind SA
-## Reg No: 212224240159
+## Name: Renick Fabian Rajesh
+## Reg No: 212224230227
 
 ---
 
